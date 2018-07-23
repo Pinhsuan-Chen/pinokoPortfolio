@@ -436,3 +436,11 @@ z-index: 1;
     100% { opacity: 1.0; }
 }
 
+.skills-of-works ul{
+  font-size: 1.2em;
+
+}
+
+.skills-of-works b {
+  color:purple;
+}
