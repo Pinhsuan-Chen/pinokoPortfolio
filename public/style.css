@@ -324,9 +324,9 @@ margin-bottom: 30px;
   margin: 0;
   text-align: center;
   /*padding:auto 0;*/
-    line-height: 30px;
+    line-height: 1.2rem.;
     margin: 0px;
-    font-size: 30px;
+    font-size: 1.2rem.;
 }
 .img-text{
   position: relative;
