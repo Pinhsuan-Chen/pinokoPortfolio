@@ -38,7 +38,9 @@ section{
   width: 60%;
   margin:0 auto;
 }
-
+.about{
+  font-size: 1.1rem;
+}
 .about img{
   width:100%;
   margin:0 auto;
@@ -437,10 +439,13 @@ z-index: 1;
 }
 
 .skills-of-works ul{
-  font-size: 1.2em;
+  font-size: 1.1rem;
 
 }
 
 .skills-of-works b {
   color:purple;
+}
+.work-header{
+padding:30px;
 }
