@@ -22,6 +22,9 @@ section h2{
 	    opacity: 0;
 
 }
+ul {
+  list-style-type: none;
+}
 section hr{
 	width:80px;
 	border-color: #999999;
@@ -31,13 +34,17 @@ section{
 	padding-bottom: 40px;
   padding-top:50px;
 }
+.col-sm-12 img{
+  width: 60%;
+  margin:0 auto;
+}
 
 .about img{
   width:100%;
   margin:0 auto;
 }
 .about div{
-  text-align: center;
+  /*text-align: center;*/
   margin-bottom: 50px;
 }
 .uppercase{
