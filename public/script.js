@@ -6,7 +6,7 @@ $(document).ready(function(){
 		top:0,
 		margin:0
 
-	},1200,'easeInOutSine'
+	},500,'easeInOutSine'
 	,
 	function(){
 		$(this).css('display','none');
